@@ -8,4 +8,4 @@
 
 ## Referanslar
 
-[Cihan AŞAN]([https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/?couponCode=SKILLS4SALE](https://magnificentengineer.com/tr-tr/post/158/ios-navigation-controller-nas-l-eklenir-))
+[Cihan AŞAN](https://magnificentengineer.com/tr-tr/post/158/ios-navigation-controller-nas-l-eklenir-)
